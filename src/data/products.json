@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Long Chair",
+      "category": "Sofa",
+      "price": 508,
+      "originalPrice": 650,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=600&h=600&fit=crop",
+      "description": "Elegant long chair with premium fabric and wooden legs for modern living spaces.",
+      "isNew": true,
+      "discount": "20%"
+    },
+    {
+      "id": 2,
+      "name": "PureSpace Focus Duo",
+      "category": "Chair",
+      "price": 329,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&h=600&fit=crop",
+      "description": "Sleek, minimalist design for ultimate productivity and comfort.",
+      "isExclusive": true
+    },
+    {
+      "id": 3,
+      "name": "Nordic Lounge Chair",
+      "category": "Chair",
+      "price": 420,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=600&h=600&fit=crop",
+      "description": "Scandinavian-inspired lounge chair with curved wooden armrests."
+    },
+    {
+      "id": 4,
+      "name": "Minimal Oak Table",
+      "category": "Table",
+      "price": 289,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=600&h=600&fit=crop",
+      "description": "Clean oak wood table perfect for dining or workspace."
+    },
+    {
+      "id": 5,
+      "name": "Modern Dresser",
+      "category": "Dressers",
+      "price": 599,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=600&h=600&fit=crop",
+      "description": "Spacious dresser with soft-close drawers and minimalist handles."
+    },
+    {
+      "id": 6,
+      "name": "Velvet Sofa",
+      "category": "Sofa",
+      "price": 899,
+      "originalPrice": 1200,
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&h=600&fit=crop",
+      "description": "Luxurious velvet sofa with deep seating and plush cushions.",
+      "isNew": true,
+      "discount": "25%"
+    },
+    {
+      "id": 7,
+      "name": "Wooden Bed Frame",
+      "category": "Bed",
+      "price": 750,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=600&h=600&fit=crop",
+      "description": "Solid wood bed frame with warm finish and durable construction."
+    },
+    {
+      "id": 8,
+      "name": "Ceramic Table Lamp",
+      "category": "Lamps",
+      "price": 89,
+      "rating": 4.5,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=600&h=600&fit=crop",
+      "description": "Elegant ceramic lamp with linen shade for soft ambient lighting."
+    },
+    {
+      "id": 9,
+      "name": "Bookshelf Speaker",
+      "category": "Speakers",
+      "price": 199,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=600&h=600&fit=crop",
+      "description": "Compact speaker with rich sound and modern walnut finish."
+    },
+    {
+      "id": 10,
+      "name": "Accent Armchair",
+      "category": "Chair",
+      "price": 349,
+      "rating": 4.6,
+      "image": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=600&h=600&fit=crop",
+      "description": "Cozy accent armchair with textured upholstery and slim legs."
+    },
+    {
+      "id": 11,
+      "name": "Round Coffee Table",
+      "category": "Table",
+      "price": 245,
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1532372320572-cda25653a26d?w=600&h=600&fit=crop",
+      "description": "Stylish round coffee table with marble top and metal base."
+    },
+    {
+      "id": 12,
+      "name": "Vintage Floor Lamp",
+      "category": "Lamps",
+      "price": 159,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=600&h=600&fit=crop",
+      "description": "Classic brass floor lamp with adjustable arm and fabric shade."
+    }
+  ],
+  "team": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "role": "Lead Designer",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop&crop=face"
+    },
+    {
+      "id": 2,
+      "name": "Marcus Johnson",
+      "role": "Architect",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&crop=face"
+    },
+    {
+      "id": 3,
+      "name": "Elena Rossi",
+      "role": "Stylist",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop&crop=face"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "role": "Product Manager",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&h=200&fit=crop&crop=face"
+    },
+    {
+      "id": 5,
+      "name": "Candice Wu",
+      "role": "Creative Director",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&h=200&fit=crop&crop=face"
+    }
+  ]
+}
